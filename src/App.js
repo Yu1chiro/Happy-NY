@@ -28,7 +28,7 @@ function App() {
       <span className="text-white text-4xl font-bold px-4 z-50">
         <Typewriter words={newYearMessage} 
         loop={false}
-        cursorStyle={"👋"}
+        cursorStyle={"_"}
         cursor
         // Tambahkan typeSpeed jika perlu
         />
